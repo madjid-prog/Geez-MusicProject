@@ -2,7 +2,7 @@
   "name": "NishfuIM-MusicProject",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Nishfu96/Geez-MusicProject",
+  "repository": "https://github.com/Nishfu96/NishfuIM-MusicProject",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
