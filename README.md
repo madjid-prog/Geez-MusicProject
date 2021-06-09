@@ -30,7 +30,7 @@ get pyrogram string session or [repl](https://replit.com/@Vckyou/Geez-String-Ses
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Vckyou/Geez-MusicProject
+$ git clone https://github.com/Nishfu96/NishfuIM-MusicProject
 $ cd Geez-MusicProject
 # Upgrade sources
 # Install All Requirements 
