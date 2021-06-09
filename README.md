@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Geez-MusicProject</h1>
+<h1 align="centre">🎶 NishfuIM-MusicProject</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
