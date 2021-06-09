@@ -31,14 +31,14 @@ get pyrogram string session or [repl](https://replit.com/@Vckyou/Geez-String-Ses
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/Nishfu96/NishfuIM-MusicProject
-$ cd Geez-MusicProject
+$ cd NishfuIM-MusicProject
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m Geez-MusicProject
+$ python(3) -m NishfuIM-MusicProject
 ```
 
 ### Commands for Group 🛠
